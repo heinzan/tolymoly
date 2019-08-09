@@ -1,0 +1,4500 @@
+[
+   {
+      "category_id": 3,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 4,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 5,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 6,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 7,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 8,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 9,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 10,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 11,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 12,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanTopSizeId"
+      ]
+   },
+   {
+      "category_id": 14,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 15,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 16,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 17,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 18,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 19,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 21,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 22,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 23,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 24,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 25,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 26,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 27,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 28,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "womanShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 30,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 31,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 32,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 33,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 34,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 35,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 36,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 38,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 39,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 40,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 41,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 42,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 43,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 44,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 45,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 46,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 47,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 48,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 49,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 52,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 53,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 54,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 55,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 56,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 57,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 58,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 59,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 60,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manTopSizeId"
+      ]
+   },
+   {
+      "category_id": 62,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 63,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 64,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 65,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 66,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 67,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 69,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 70,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 71,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 72,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 73,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 74,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 75,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 76,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "manShoeSizeId"
+      ]
+   },
+   {
+      "category_id": 78,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 79,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 80,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 81,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 82,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 84,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "tvTypeId"
+      ]
+   },
+   {
+      "category_id": 86,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 87,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 88,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 89,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 90,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 91,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 92,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 93,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 95,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 96,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 97,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 98,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 100,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 101,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 102,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 103,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 104,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 105,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 107,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 108,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 109,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 110,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 111,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 112,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 113,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 114,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 115,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 116,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 118,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 119,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 120,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 121,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 123,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 124,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 125,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 127,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 128,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 129,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 131,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 132,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 133,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 134,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 135,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 137,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 138,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 139,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 140,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 142,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "mobileBrandId",
+         "mobileModelId",
+         "mobileStorageId"
+      ]
+   },
+   {
+      "category_id": 143,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 145,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 146,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 147,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 148,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 149,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 150,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 152,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 153,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 154,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 155,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 156,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 158,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 159,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 160,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 161,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 162,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 163,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 164,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 166,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 167,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 168,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 170,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "mobileBrandId",
+         "mobileModelId"
+      ]
+   },
+   {
+      "category_id": 171,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 172,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 174,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 175,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 176,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 177,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 178,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 179,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "mobileBrandId",
+         "mobileModelId",
+         "mobileStorageId",
+         "tabletTypeId"
+      ]
+   },
+   {
+      "category_id": 180,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 182,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "computerBrandId",
+         "computerModelId",
+         "cpu",
+         "ram",
+         "ssdStorage",
+         "hhdStorage",
+         "graphicCard",
+         "display",
+         "dvdDrive",
+         "battery"
+      ]
+   },
+   {
+      "category_id": 183,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "computerBrandId",
+         "computerModelId",
+         "cpu",
+         "ram",
+         "ssdStorage",
+         "hhdStorage",
+         "graphicCard",
+         "display",
+         "dvdDrive",
+         "battery"
+      ]
+   },
+   {
+      "category_id": 185,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 186,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 187,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 189,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 190,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 191,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 192,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 193,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 194,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 195,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 196,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 198,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 199,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 200,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 201,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 202,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 204,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 205,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 206,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 207,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 209,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 210,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 211,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 212,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 213,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 214,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 215,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 216,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 217,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 218,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 219,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 220,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 208,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 222,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 223,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 224,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 225,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 227,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "carBrandId",
+         "carTypeId",
+         "carModel",
+         "carTransmissionId",
+         "carMileageId",
+         "carYear",
+         "carDriveId",
+         "carFuelId",
+         "carLicenceId",
+         "carColourId",
+         "carLicenceTypeId",
+         "carRegionalCodeId",
+         "engineCapacity"
+      ]
+   },
+   {
+      "category_id": 228,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "carBrandId",
+         "carTypeId"
+      ]
+   },
+   {
+      "category_id": 229,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 231,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "motorBikeBrandId",
+         "motorBikeTypeId"
+      ]
+   },
+   {
+      "category_id": 232,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 233,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 235,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 236,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 237,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 239,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 240,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 241,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 242,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 243,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 244,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 246,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "skinBathBodyTypeId"
+      ]
+   },
+   {
+      "category_id": 247,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "hairCareTypeId"
+      ]
+   },
+   {
+      "category_id": 248,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "makeUpTypeId"
+      ]
+   },
+   {
+      "category_id": 249,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 250,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "nailCareTypeId"
+      ]
+   },
+   {
+      "category_id": 251,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "mensGroomingTypeId"
+      ]
+   },
+   {
+      "category_id": 252,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 254,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 255,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 256,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 257,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 258,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 259,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 260,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 261,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 262,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 264,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "pramTypeId",
+         "pramFeatureId"
+      ]
+   },
+   {
+      "category_id": 265,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "girlApparelTypeId",
+         "kidApparelSizeId"
+      ]
+   },
+   {
+      "category_id": 266,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "kidApparelSizeId",
+         "boyApparelTypeId"
+      ]
+   },
+   {
+      "category_id": 267,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "babyApparelTypeId",
+         "babyApparelSizeId"
+      ]
+   },
+   {
+      "category_id": 268,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 269,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand",
+         "maternityTopSizeId",
+         "maternityBottomSizeId"
+      ]
+   },
+   {
+      "category_id": 270,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "brand"
+      ]
+   },
+   {
+      "category_id": 272,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 273,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 274,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 275,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 276,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 278,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 279,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 280,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 282,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 283,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 284,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 285,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 287,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 288,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 289,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 290,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 291,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 292,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 294,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 295,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 296,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 297,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 298,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 300,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 301,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 302,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 303,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 304,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 307,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 308,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 309,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 310,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 311,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 312,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 313,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 314,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 315,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 316,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 317,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 319,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 320,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 321,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 322,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 323,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 324,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 325,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 326,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 327,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 328,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 329,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 330,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 331,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 332,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 333,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 334,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 337,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description",
+         "cleaningTypeId"
+      ]
+   },
+   {
+      "category_id": 338,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description",
+         "airconServicesTypeId"
+      ]
+   },
+   {
+      "category_id": 339,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description",
+         "homeRepairsTypeId"
+      ]
+   },
+   {
+      "category_id": 340,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description",
+         "electricalLightingWiringTypeId"
+      ]
+   },
+   {
+      "category_id": 341,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description",
+         "renovationsTypeId"
+      ]
+   },
+   {
+      "category_id": 342,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description"
+      ]
+   },
+   {
+      "category_id": 343,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "description"
+      ]
+   },
+   {
+      "category_id": 344,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "electronicsGadgetRepairsTypeId"
+      ]
+   },
+   {
+      "category_id": 345,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 346,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description",
+         "beautyServicesTypeId"
+      ]
+   },
+   {
+      "category_id": 347,
+      "attributes_id": [
+         "photo",
+         "title",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 349,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 350,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 351,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 352,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 353,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 354,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 355,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 356,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 357,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 358,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 359,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 360,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 361,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 362,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 363,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 364,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 365,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 366,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 367,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 368,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 369,
+      "attributes_id": [
+         "photo",
+         "title",
+         "regionId",
+         "townshipId",
+         "description",
+         "jobTypeId",
+         "experienceLevelId",
+         "workingHoursId",
+         "paymentRateId",
+         "salary"
+      ]
+   },
+   {
+      "category_id": 370,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "conditionId",
+         "regionId",
+         "townshipId",
+         "description"
+      ]
+   },
+   {
+      "category_id": 372,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "regionId",
+         "townshipId",
+         "description",
+         "transactionTypeId",
+         "propertyTypeId",
+         "propertySubTypeId",
+         "address",
+         "totalFloor",
+         "floorNumberId",
+         "masterBedroom",
+         "bedroom",
+         "bathroom",
+         "floorSize",
+         "floorLength",
+         "floorWidth",
+         "landSize",
+         "landLength",
+         "landWidth"
+      ]
+   },
+   {
+      "category_id": 373,
+      "attributes_id": [
+         "photo",
+         "title",
+         "price",
+         "priceType",
+         "regionId",
+         "townshipId",
+         "description",
+         "transactionTypeId",
+         "propertyTypeId",
+         "propertySubTypeId",
+         "address",
+         "totalFloor",
+         "floorNumberId",
+         "masterBedroom",
+         "bedroom",
+         "bathroom",
+         "floorSize",
+         "floorLength",
+         "floorWidth",
+         "landSize",
+         "landLength",
+         "landWidth"
+      ]
+   }
+]

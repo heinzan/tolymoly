@@ -1,0 +1,63 @@
+[
+  {
+    "value": 2,
+    "text": "Yangon",
+    "selected": true
+  },
+  {
+    "value": 3,
+    "text": "Mandalay"
+  },
+  {
+    "value": 4,
+    "text": "Bago"
+  },
+  {
+    "value": 5,
+    "text": "Ayeyarwady"
+  },
+  {
+    "value": 6,
+    "text": "Chin"
+  },
+  {
+    "value": 7,
+    "text": "Kachin"
+  },
+  {
+    "value": 8,
+    "text": "Kayah"
+  },
+  {
+    "value": 9,
+    "text": "Kayin"
+  },
+  {
+    "value": 10,
+    "text": "Magway"
+  },
+  {
+    "value": 11,
+    "text": "Mon"
+  },
+  {
+    "value": 12,
+    "text": "Rakhine"
+  },
+  {
+    "value": 13,
+    "text": "Sagaing"
+  },
+  {
+    "value": 14,
+    "text": "Shan"
+  },
+  {
+    "value": 15,
+    "text": "Tanintharyi"
+  },
+  {
+    "value": 16,
+    "text": "Nay Pyi Taw"
+  }
+]

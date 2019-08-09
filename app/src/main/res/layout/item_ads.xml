@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView android:layout_width="match_parent"
-    android:layout_height="210dp"
-    android:elevation="2dp"
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="240dp"
     android:layout_margin="4dp"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:elevation="2dp">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -14,24 +14,26 @@
             android:layout_width="42dp"
             android:layout_height="42dp"
             android:layout_margin="4dp"
-            android:src="@color/orange"/>
+            android:src="@color/orange" />
 
         <TextView
             android:id="@+id/tv_ad_user_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/civ_ad_user_image"
             android:layout_marginLeft="4dp"
-            android:text="Joe Doe"/>
+            android:layout_toRightOf="@id/civ_ad_user_image"
+            android:text="Joe Doe" />
 
         <ImageView
             android:id="@+id/iv_ads_cover"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="140dp"
             android:layout_below="@id/civ_ad_user_image"
             android:layout_marginTop="4dp"
-            android:src="@drawable/banner_1"
+            android:adjustViewBounds="true"
             android:scaleType="fitXY"
+            android:src="@drawable/banner_1"
+
             />
 
         <TextView
@@ -40,14 +42,16 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/iv_ads_cover"
             android:layout_marginTop="4dp"
-            android:text="Tee for girl"/>
+            android:layout_marginLeft="4dp"
+            android:text="Tee for girl" />
 
         <TextView
             android:id="@+id/tv_ad_price"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/tv_ad_title"
-            android:text="USD 1,599"/>
+            android:layout_marginLeft="4dp"
+            android:text="USD 1,599" />
 
 
     </RelativeLayout>

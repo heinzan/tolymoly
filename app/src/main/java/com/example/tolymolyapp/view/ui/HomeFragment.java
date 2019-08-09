@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.tolymolyapp.R;
@@ -65,7 +66,12 @@ public class HomeFragment extends Fragment {
     private void loadCategory(List<CategoryVO> body) {
         mCategoryRecyclerAdapter = new CategoryRecyclerAdapter(body , getContext());
 
-        catrecycler.setLayoutManager(new GridLayoutManager(getContext(), 2));
+        LinearLayoutManager layoutManager
+                = new LinearLayoutManager(getContext(), LinearLayoutManager.HORIZONTAL, false);
+
+        catrecycler.setLayoutManager(layoutManager);
+
+
         catrecycler.setAdapter(mCategoryRecyclerAdapter);
     }
 

@@ -1,17 +1,20 @@
 package com.example.tolymolyapp.adapters;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.tolymolyapp.R;
 import com.example.tolymolyapp.service.model.AdsVO;
+import com.example.tolymolyapp.view.ui.DetailActivity;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
@@ -34,7 +37,16 @@ public class AdRecyclerAdapter extends RecyclerView.Adapter<AdRecyclerAdapter.Cu
     @Override
     public void onBindViewHolder(@NonNull CustomViewHolder holder, int position) {
        // holder.textUser.setText(dataList.get(position).getUser());
-        holder.txt_price.setText(String.valueOf(adsVoList.get(position).getPrice()));
+        int price_type = adsVoList.get(position).getPrice_type();
+        String priceType = "";
+        if (price_type == 1){
+            priceType = "Ks";
+        }else if(price_type == 2){
+            priceType = "Lks";
+        }else if (price_type == 3){
+            priceType = "USD";
+        }
+        holder.txt_price.setText(priceType+""+String.valueOf(adsVoList.get(position).getPrice()));
         holder.txt_user_name.setText(adsVoList.get(position).getUser_name());
         holder.txt_title.setText(adsVoList.get(position).getTitle());
 
@@ -72,6 +84,16 @@ public class AdRecyclerAdapter extends RecyclerView.Adapter<AdRecyclerAdapter.Cu
             iv_cover = itemView.findViewById(R.id.iv_ads_cover);
             txt_title = itemView.findViewById(R.id.tv_ad_title);
             txt_price = itemView.findViewById(R.id.tv_ad_price);
+
+            iv_cover.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                   // Toast.makeText(mContext , "Click"+adsVoList.get(getAdapterPosition()).getId() , Toast.LENGTH_LONG).show();
+                    Intent i = new Intent(mContext , DetailActivity.class);
+                    i.putExtra("id" , adsVoList.get(getAdapterPosition()).getId());
+                    mContext.startActivity(i);
+                }
+            });
 
         }
     }
